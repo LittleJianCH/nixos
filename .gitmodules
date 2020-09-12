@@ -1,0 +1,6 @@
+[submodule "config_file/dwm"]
+	path = config_file/dwm
+	url = https://github.com/LittleJianCH/dwm.git
+[submodule "config_file/st"]
+	path = config_file/st
+	url = https://github.com/LittleJianCH/st.git
